@@ -26,3 +26,7 @@ int main()
 Kobe Bryant's Net Worth | My Net Worth
 --- | ---
 $500,000,000 | $5000
+
+Here's a photo I took:
+
+[Shawn's Photo](4x5-1135.JPG)
