@@ -2,6 +2,8 @@
 
 ## This is the Second Read Me.
 
+### [Visit README.md](README.md)
+
 #### The following is random stuff.
 
 As Kanye West said once:
